@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63C0BC40-BDDE-4291-BF9A-08A57FF99028}|ConsoleApp5\\ConsoleApp5.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp5\\consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C0BC40-BDDE-4291-BF9A-08A57FF99028}|ConsoleApp5\\ConsoleApp5.csproj|solutionrelative:consoleapp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp5\\core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|solutionrelative:core\\models\\rentcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp5\\core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|solutionrelative:core\\models\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp5\\core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|solutionrelative:core\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|c:\\users\\nazani\\onedrive\\masa\u00FCst\u00FC\\consoleapp5\\core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{709B4F80-AEE2-4BA2-A24E-AD7C919408D3}|Core\\Core.csproj|solutionrelative:core\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentCar.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\RentCar.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\RentCar.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\RentCar.cs",
+              "RelativeToolTip": "Core\\Models\\RentCar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:30:34.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Truck.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Truck.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Truck.cs",
+              "RelativeToolTip": "Core\\Models\\Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:30:18.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Car.cs",
+              "RelativeToolTip": "Core\\Models\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:30:04.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\Core\\Models\\Vehicle.cs",
+              "RelativeToolTip": "Core\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:29:09.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp5\\Program.cs",
+              "ToolTip": "C:\\Users\\Nazani\\OneDrive\\Masa\u00FCst\u00FC\\ConsoleApp5\\ConsoleApp5\\Program.cs",
+              "RelativeToolTip": "ConsoleApp5\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T20:27:06.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
